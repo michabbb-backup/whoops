@@ -1,6 +1,6 @@
 <?php /* Link to help resources */ ?>
 <div class="details">
-  <div class="data-table-container" id="handlers">
+  <div class="data-table-container">
     <label>Help</label>
     <p>
       Search on
