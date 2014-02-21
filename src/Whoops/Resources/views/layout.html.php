@@ -24,6 +24,7 @@
             <?php $tpl->render($header) ?>
           </header>
           <?php $tpl->render($frame_code) ?>
+          <?php $tpl->render($help) ?>
           <?php $tpl->render($env_details) ?>
         </div>
       </div>

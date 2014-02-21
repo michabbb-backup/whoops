@@ -129,6 +129,7 @@ class PrettyPageHandler extends Handler
             "header"      => $this->getResource("views/header.html.php"),
             "frame_list"  => $this->getResource("views/frame_list.html.php"),
             "frame_code"  => $this->getResource("views/frame_code.html.php"),
+            "help"        => $this->getResource("views/help.html.php"),
             "env_details" => $this->getResource("views/env_details.html.php"),
 
             "title"        => $this->getPageTitle(),
